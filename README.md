@@ -43,14 +43,7 @@ In addition to security and efficiency, the DANG Token Faucet places a strong em
 ![image](https://github.com/Vedant-Jayesh-Oza/DANGToken/assets/75005433/ef435a3c-ed2a-431c-b186-ab7633396c77)
 
 ### Passkey Generated
-![image](https://github.com/Vedant-Jayesh-Oza/DANGToken/assets/75005433/201a4e8d-fb84-42ef-a5a6-fef53ab4e73f)
-
-Logged in to the Token Faucet 
-![image](https://github.com/Vedant-Jayesh-Oza/DANGToken/assets/75005433/2208597e-7fb4-4873-9b72-c0de48c3535a)
-
-
-
 ![image](https://github.com/Vedant-Jayesh-Oza/DANGToken/assets/75005433/b86e4cfd-37d2-40db-a7fe-fc2d89e45939)
-
-
-
+![image](https://github.com/Vedant-Jayesh-Oza/DANGToken/assets/75005433/201a4e8d-fb84-42ef-a5a6-fef53ab4e73f)
+## Logged in to the Token Faucet 
+![image](https://github.com/Vedant-Jayesh-Oza/DANGToken/assets/75005433/2208597e-7fb4-4873-9b72-c0de48c3535a)
