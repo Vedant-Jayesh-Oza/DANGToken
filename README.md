@@ -1,4 +1,3 @@
-# DANGToken
 # DANG Token Faucet Project
 
 ## Overview
@@ -31,4 +30,18 @@ In addition to security and efficiency, the DANG Token Faucet places a strong em
 ![Screenshot 2023-10-22 195740](https://github.com/Vedant-Jayesh-Oza/DANGToken/assets/75005433/2becb8d0-5403-40f5-ad59-5469b09ccea9)
 ![Screenshot 2023-10-22 195657](https://github.com/Vedant-Jayesh-Oza/DANGToken/assets/75005433/a3921b96-8b9e-47bd-8691-1ab64ae8bff0)
 ![Screenshot 2023-10-22 195627](https://github.com/Vedant-Jayesh-Oza/DANGToken/assets/75005433/a91419f1-91e7-4efc-a769-b552299e625c)
+
+### Web Output live on Internet Computer Blockchain 
+
+Creating a PassKey for web authentication using Internet Identity 
+![image](https://github.com/Vedant-Jayesh-Oza/DANGToken/assets/75005433/dea4928e-2cf0-447a-98f5-7a0d7f4dd88f)
+
+Logged in to the Token Faucet 
+![image](https://github.com/Vedant-Jayesh-Oza/DANGToken/assets/75005433/2208597e-7fb4-4873-9b72-c0de48c3535a)
+
+
+
+![image](https://github.com/Vedant-Jayesh-Oza/DANGToken/assets/75005433/b86e4cfd-37d2-40db-a7fe-fc2d89e45939)
+
+
 
