@@ -36,6 +36,15 @@ In addition to security and efficiency, the DANG Token Faucet places a strong em
 Creating a PassKey for web authentication using Internet Identity 
 ![image](https://github.com/Vedant-Jayesh-Oza/DANGToken/assets/75005433/dea4928e-2cf0-447a-98f5-7a0d7f4dd88f)
 
+![image](https://github.com/Vedant-Jayesh-Oza/DANGToken/assets/75005433/4cc3d0dd-38a6-4a34-b401-6129a16b3e5a)
+
+![image](https://github.com/Vedant-Jayesh-Oza/DANGToken/assets/75005433/92060b1c-4453-42c3-8305-1ef1120b6a24)
+
+![image](https://github.com/Vedant-Jayesh-Oza/DANGToken/assets/75005433/ef435a3c-ed2a-431c-b186-ab7633396c77)
+
+Passkey Generated
+![image](https://github.com/Vedant-Jayesh-Oza/DANGToken/assets/75005433/201a4e8d-fb84-42ef-a5a6-fef53ab4e73f)
+
 Logged in to the Token Faucet 
 ![image](https://github.com/Vedant-Jayesh-Oza/DANGToken/assets/75005433/2208597e-7fb4-4873-9b72-c0de48c3535a)
 
